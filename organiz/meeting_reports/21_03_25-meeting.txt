@@ -1,0 +1,39 @@
+25/03
+
+Lors de cette réunion le chargé de TD nous a fait un retour sur le code rendu et nous a proposé de faire une scéance d'entrainement oral le 12 avril.
+
+Premièrement, il manque les consigne d'installation des packages dans le readme.
+Deuxièmement, l'executable de notre application est mal nommée (test_state) et porte à confusion avec les fichiers du test unitaire.
+
+Ensuite, il faudrait utiliser des bibliothèques d'algèbre pour simplifier les tests unitaires et factoriser le code.
+(pour changement de repère terrain et écran, pour les collisions cas de la division potentielle par 0, gérer la physique du jeu)
+
+Les tests réalisés sur slimevolley était plus des test utilisateur.
+Il faut maintenant que nous fassions des tests unitaires et du profilage de code.
+
+Il faudrait plus commenter le code.
+
+Nous nous sommes mit d'accord pour dire que la robocup était notre principal objectif et que slimevolley multi-agent était plus une preuve de concept pour robocup.
+Nous pouvons donc arréter notre travail sur slimevolley et nous concentrer sur le code, la documentation et les tests de robocup.
+
+Nous avons ensuite discuté de l'architecture de robocup. On nous a suggérer de séparer l'affichage des classes field, agent et ball pour avoir un modèle MVC.
+Il faudrait aussi créer une classe controleur pour mettre en relation la classe game et l'environnement robocup plutot que de le faire dans le script.
+La classe game serait un sous-controleur.
+
+Pour le mémoire il faut détailler les points suivant:
+* description besoins fonctionnel (réalisé et non réalisé)
+* description de l’archi
+* choix d’implémentation
+* test unitaire
+* test d’utilisation 
+* profilage du code
+* état de l’art
+* bibliographie
+* présentation du sujet
+
+On devrait nous remettre notre premier rapport anoté avec des remarques prochainement.
+
+
+
+
+

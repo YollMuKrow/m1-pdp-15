@@ -1,0 +1,14 @@
+Réunion du 01/04
+
+Review du mémoire que nous avons envoyé la veille :
+
+On nous a fourni un document annoté de notre début de mémoire. 
+Durant la séance de TD le chargé de TD nous a dit :
+
+- d'énoncer le plan dans l'intro
+- de mieux structurer 
+- mettre plus de lien et plus de cohérence dans les parties
+- commencer par faire les besoins et partir de là pour faire la structure du rapport 
+- raconter une histoire et emmener le lecteur quelque part 
+- présenter les fonctionnalités de notre application + ce qui n'a pas été atteint (se concentrer sur 1 verison de la robocup)
+- présenter après les besoins réalisés et non réalisés (suggestion code couleur)

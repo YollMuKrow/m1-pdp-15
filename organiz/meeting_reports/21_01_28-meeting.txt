@@ -1,0 +1,41 @@
+28/01
+
+Tout d'abord le chargé de TD nous a parlé de l'organisation, notamment du git savanne et nous a demandé de poster notre travail sur le git un jour avant une réunion.
+Nous avons programmé des réunions tous les jeudi à 10h.
+
+L'objectif principal de cette réunion a été de nous donner des conseils pour réaliser l'analyse des besoins de notre projet de programmation afin d'être les plus précis et efficaces possible.
+Nous avions au préalable envoyé à M. Boussicault un premier jet des besoins fonctionnels et non-fonctionnels de l'application, ce qui a été utile puisqu'il a pu nous faire un retour.
+
+Nous avons 2 axes pricipaux, slimevolley et la Robocup. Les besoins des 2 parties n'étaient pas séparés ce qui donnait une vision brouillone du travail à accomplir.
+Pour éviter les confusions et les oublis on nous a conseillé de séparer les besoins en 2 voire 3 parties.
+Une partie slimevolley pour appréhender l'aprentissage multi-agent, une partie modélisation de la robocup, et une dernière partie multi-agent dans la Robocup.
+
+Nos besoins n'étaient pas assez précis et incomplets.
+Il faut que les besoins soient dénués toutes ambiguïtées, qu'ils soient plus concrets et anticipent les futurs problèmes que l'on pourrait avoir pendant l'implémentation.
+
+Le chargé de TD nous a précisé la définition de besoin fonctionnel et non-fonctionnel avec des exemples.
+Un besoin fonctionnel implique une fonction à implémenter et est associé à un verbe. 
+Pour vérifier si un besoin est fonctionnel on peut se poser la question : 
+"Si je retire ce besoin est-ce-que je peux toujours utiliser l'application"
+Un besoin non-fonctionnel est associé à une contrainte par exemple de performance, ou l'utilisation d'outils/bibliothèques spécifiques, ou une preuve de concept.
+
+Pour vérifier s'il nous manque des besoins nous pouvons faire un schéma de l'implémentation que nous allons faire pour arriver à notre objectif, si nous n'y parvenons pas c'est qu'il nous manque 
+des besoins fonctionnels.
+
+
+Dans le cadre de PDP on mélange le cahier des charges et cahier des besoins par manque de temps.
+A chaque besoin on doit donc associer une solution technique. Il faut justifier la solution avec des articles ou sinon avec des arguments solides.
+Il faut imaginer le cas où un développeur rejoint l’équipe, il doit avoir des informations utiles et pertinentes pour pouvoir travailler immédiatement.
+
+Pour résumer, la démarche est la suivante, on écoute le client et ce qu'il veut pour son projet, on déduit les besoins associés.
+Pour faire cela nous devons implémenter ceci (préciser les algorithmes et conceptualiser l'implémentation).
+Nous utiliserons telle bibliotheque car elle a tels avantages et nous devons donner une preuve des avantages avec des sources.
+
+Exemples :
+“Simuler un match” : trop flou, pas assez détaillé
+Il faut qu’il y ait une seule façon d’implémenter les besoins fonctionnels.
+Avoir une idée de comment l’implémenter, classes, bibliothèques, …
+“Faire une IA qui joue correctement au ballon” non, donner précisément les algorithmes.
+Selon lui si c'est référencé dans tel article, tel livre, implémenté sous gym à tel passage.
+ 
+

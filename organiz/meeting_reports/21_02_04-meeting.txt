@@ -1,0 +1,44 @@
+04/02
+
+Adrien B. nous a indiqué de rédiger les documents postés sur le git en Latex.
+Il nous a aussi demandé de lui donner les documents à regarder avant la réunion et de lui préciser les documents qu'il ne devait pas regarder.
+
+Il s'est penché sur le documents des besoins de slimevolley. 
+Il a souligné plusieurs problèmes : 
+	- nous n'avons pas fourni de contexte (on ne comprend même pas de qu'elle application on parle et son but)
+	- nous n'avons pas articulé les besoins avec l'existant
+	- le document n'est pas structuré
+	- les besoins décris ne sont pas assez précis
+
+Il nous a donner cette structure à respecter pour les besoins :
+les besoins en section 
+sous-section
+	Pour chaque besoin fonctionnel :
+	-description du besoin
+	-priorité (essentiel, conditionnel, (optionnel)) = quantité de travail 
+	-preuves de concept pour vérifier ce que recouvre le concept 
+	(Savoir comment l’implémenter ->Si on ne sait pas on n'a probablement pas assez décrit ce besoin, ou alors il cache d’autres besoins fonctionnels.)
+	-des références, bibliothèques, existant
+	-cas d’utilisations (scénario = enchaînement de besoins fonctionnels, aide à trouver les besoins fonctionnels) 
+	-tests d’utilisations (valider que l’application est correcte et que l'on a rempli le contrat) = qualité
+
+Dans le cas de slimevolley comme nous avons du code à modifier il faut procéder ainsi :
+	I- les besoins fonctionnels existant dans l’application slimevolley (ce que l'on a)
+	II- les besoins fonctionnels que le client souhaite (ce que l'on veut)
+	III- les besoins fonctionnels que l'on doit modifier pour obtenir le résultat attendu
+
+
+besoins focntionels = ce que veut le client on est pas obligé de sengager d'où les priorités  
+
+Chaque phase du jeux est un besoin fonctionnel.
+Exemple de differents état de jeux : positionnement, départ, engagement, fin du point, mise à jour du score, engagement, ..., fin match
+Il faut décrire la boucle  et décrire les rèlges
+
+-> ON DOIT COMPRENDRE TOUT LE PROJET ET POUVOIR COMMENCER L'IMPLEMENTATION EN LISANT LE DOCUMENT
+
+exemple d'erreurs : 
+Coder un script 2 joueur humain vs IA ->sous entend que l'utilisateur doit coder un script il faut mettre executer un script.
+Il faut aussi préciser ce que doit faire l'IA (sinon elle reste immobile et c'est bon).
+On doit expliquer comment comment récuperer les données du joueur humain (via clavier) dans l'ordre ordre, ensuite on deplace les slimes en fonction, il faut décrire les déplacement possibles.
+
+

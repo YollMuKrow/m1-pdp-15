@@ -1,0 +1,20 @@
+11/2
+
+La réunion était accès sur le rapport. Le chargé de TD nous a fait un retour. 
+Il avait préparé une version annotée de notre rapport pour nous dire ce qui n'allait pas.
+
+Principalement ces remarques se sont portées sur la partie SlimeVolley faite par Alexis L, Alexis H et Nicolas la partie Robocup n'a pas été abordée (encore une fois).
+
+Toutes les remarques de M Boussicault concernait l'analyse de l'existant qui était incomplète (pas de description des fonctionnalités, pas d'analyse de code), peu structurée, peu précise et difficile à comprendre notamment car il y avait de nombreux termes non définis.
+Après le retour du client, une partie importante du travail fait sur SlimeVolley avait été supprimée sans l'accord de tous les membres du groupe, car elle était hors sujet et très lacunaire.
+C'est pour cela que les remarques concernaient presque exclusivment la partie sur les IA faite par Nicolas.
+Finalement M Boussicault nous a donnée une définition pour définir le terme environnement qui avait posé particulièrement problème lors de la réunion puis nous a dit de la reprendre.
+
+J'ai également demandé s'il fallait obligatoirement dans un pdp des besoins non-fonctionnels, car on n'avait que "l'appli ne doit pas crash".
+Il a répondu en redéfinissant avant le concept de besoins non fonctionnel qu'il était possible de ne pas en avoir et que le crash était un besoin trivial.
+
+Les conseils/consignes données pendant la réunion :
+-Introduire les partie avec des phrases pour le bine d ela cohérance et de la structure
+-Définir précisément les termes et si un terme est utilisé sans être définti au préalable, préciser où trouver sa définition
+-Détailler l'architecture du code  
+-Etre concis et précis stop aux mots utilisés pour faire 'stylé' qui enlèvent du sens

@@ -1,0 +1,22 @@
+11/03
+
+
+Lors de cette réunion nous avons fait un point sur l'avancement du projet au niveau de l'implémentatation et de l'architecture du code.
+
+Sur la partie slimevolleyMultiagent le chargé de TD nous a conseillé de reprendre la fonction collision entre agents et de faire les calculs par le biais d'une biliothèque vectoriel de python.
+Cela permettrait en plus de faciliter les calculs et de rendre la collision plus modulable pour la suite.
+
+On pourrait entrainer une IA dans le nouveau modèle en récupérant les événements clavier que l'utilisateur génère en jouant.
+
+Pour la partie robocup nous n'avions rien de compilable à présenter. Nous devons vite implementer un classe environnement pour pouvoir tester nos fonctions.
+
+Il faut faire des README pour expliquer comment compiler avec quelles options et préciser les package utiliser. 
+Ce fichier est très important pour l'utilisateur et sera pris en compte dans la notation du jury.
+
+Il faut égalment faire des tests unitaire et les présenter lors de l'oral, on doit aussi faire des test de couverture. 
+Chaque fonction doit être testée.
+
+Le chargé de TD nous a rapelé que les objectifs en master sont différent de ceux en licence : 
+On ne s'interesse plus à l'implémentation et à la technique mais plutot à la conception d'une application que cela soit au niveau architectural ou algorithmique.
+
+
