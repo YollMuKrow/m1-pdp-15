@@ -1,0 +1,21 @@
+{
+  "collision": true,
+  "playerAmount": 2,
+  "env" : {
+    "width" : 125
+  },
+  "ia_teams": [
+    "random",
+    "random"
+  ],
+  "arguments": {
+    "team_left_dict": {
+      "yellow": 0,
+      "green": 1
+    },
+    "team_right_dict": {
+      "purple": 2,
+      "white": 3
+    }
+  }
+}

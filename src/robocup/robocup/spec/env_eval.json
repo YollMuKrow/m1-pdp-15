@@ -1,0 +1,26 @@
+{
+  "ia_teams": [
+    "random",
+    "random"
+  ],
+  "id": "RoboCupKidSize-v0",
+  "configuration": [
+
+  ],
+  "arguments": {
+    "team_left_color_num_action_dict": {
+      "yellow": 0,
+      "green": 1
+    },
+    "team_right_color_num_action_dict": {
+      "pink": 2,
+      "white": 3
+    },
+    "left_path" : "",
+    "right_path" : "",
+    "render": 1,
+    "trials": 10,
+    "seed" : 0
+  },
+  "csv_file_name": "results"
+}

@@ -1,0 +1,36 @@
+1) Chronomètre : FAIT
+
+10 minutes : 5 minutes par manche, inversion du placement
+des agents à la fin d'une manche
+
+2 ) Accélération :
+
+Déplacements plus réalistes
+
+3 ) Perception : FAIT
+
+Voir les poteaux des buts
+
+4 ) Puissance de tir :
+
+La balle va plus loin selon la puissance de tir (adult size,
+kid size)
+
+5 ) Collision entre les agents: FAIT
+De la même équipe également
+
+5.1) Gérer la perte de l'oeil droit après une collion : FAIT
+
+6 ) Modification du système de récompense : 
+
+Attribuer un point à l'équipe adverse en cas de collision,
+sortie du terrain
+Exclure le joueur
+
+
+7 ) Placement des agents par rapport à balle au début:
+
+avec les valeurs réelles
+
+8 ) Gestion des touches: FAIT
+variable last_touched pour savoir qui a fait sortir la balle

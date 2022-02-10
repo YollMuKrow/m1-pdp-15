@@ -1,0 +1,7 @@
+{
+  "collision": true,
+  "playerAmount": 2,
+  "env" : {
+    "width" : 125
+  }
+}
