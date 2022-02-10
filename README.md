@@ -52,7 +52,7 @@ est disponible dans le fichier REQUIREMENTS.txt. La version minimal que nous avo
 * parameterized version 0.8.1
 
 
-##Comment l'utiliser
+## Comment l'utiliser
 Une fois toute les library installé, vous pouvez tester le fonctionnement général de l'application avec la commande :
 ```python script_manual.py```
 ou (en fonction de votre installation)
@@ -62,7 +62,7 @@ Une fois lancé, vous devrez avoir cette fenêtre de jeu qui s'affiche :
 ![image](manual.png)
 
 
-###Mode manuel
+### Mode manuel
 Le mode manuel comme présenter plus haut permet de tester via le clavier l'interface de jeu dans un environnement basique. 
 Les paramètres de jeu sont défini dans le fichier env.json disponible dans le répertoire src/robocup/specs/env.json.
 Dans cette partie, seulement 4 joueurs sont implémentés, les paramètres de jeu seront explicité plus tard dans ce chapitre.
@@ -95,7 +95,7 @@ Les commandes sont réparties comme cela :
 <br/>Tourner à droite/gauche : NUM_PAD_3/NUM_PAD_1
 <br/>Tirer : Espace
   
-###Mode entrainement
+### Mode entrainement
 Le mode entrainement comme introduit plus haut permet d'entrainer avec un algorithme implémenté un agent. 
 Un script d'apprentissage par renforcement via un algorithme génétique est disponible dans le répertoire 
 src/robocup/training_scripts/train_ga_selfplay.py.
@@ -118,7 +118,7 @@ python3 training_scripts/train_ga_selfplay.py
 Une fois les 5000 parties effectuées, une liste de fichiers json est disponible dans un dossier ga_selfplay. Le résultat
 final de l'entrainement ainsi que les sauvegardes sont dans ce répertoire et peuvent être utilisés plus tard dans le mode
 d'évaluation.
-###Mode evaluation
+### Mode evaluation
 La mode évaluation comme introduite plus haut permet d'évaluer le résultat d'algorithmes contre une équipe avec 
 des mouvements aléatoires.Les paramètres de jeu sont définis dans le fichier env_eval.json disponible dans le répertoire 
 src/robocup/specs/env_eval.json.Dans cette partie, seulement 4 joueurs sont implémentés, les paramètres de jeu seront 
